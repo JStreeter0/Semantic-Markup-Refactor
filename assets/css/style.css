@@ -86,23 +86,27 @@ p {
     background-color: #2589bd;
 }
 
+/* set all aside section classes to benefit-all rather than individual classes*/
 .benefit-all {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/*set all aside section headers to benefit-all*/
 .benefit-all h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/*img for aside section now set to benefit-all class*/
 .benefit-all img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.search-engine-optimization {
+/*set all main section classes to search-rep-media rather than previous individual classes*/
+.search-rep-media {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -111,47 +115,13 @@ p {
     color: #ffffff;
 }
 
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img {
+/*img for main section now set to search-rep-media class*/
+.search-rep-media img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
+/*all main section headers set to search-rep-media*/
+.search-rep-media h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
