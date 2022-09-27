@@ -1,15 +1,18 @@
-<H1>Semantic Markup-Refactor</H1>
+<H1>Horiseon Refactor</H1>
 
-<H2>Description</H2>
+<H2>Description Summary</H2>
 
 Added Semantic elements in place of current code to an existing site to create greater accessibility while still keeping the site the same in appearance and functionality. Also went ahead and consolidated some of the CSS code into condensed classes.
 
-<H2>Usage</H2>
+<H2>Detailed Description</H2>
 
-To view the added semantic elements start by right clicking and selecting inspect or command+options+l(MacOS) to open up the console panel in your current browser. Here under elements you will find semantic elements giving clear meaning to each section of the content as well as alternative descriptions for images on the page. If you hover your mouse over each section in elements it will highlight the area being referred to on the live site. Below are links to the starting website/finished website for comparison to show no changes have been made to what the user will see or the functionality.
+Took the existing website and added more descriptive and accessible semantic elements in the HTML file in place of previously placed div elements. Also went in and took the previously assigned classes for sections in both the main and aside that were broken up in CSS individually and consolidated them each to a single class to clean up the CSS. Main section will now all fall under Search-rep-media and aside section will be under benefit-all in the CSS file. Below is a link to the deployed application to view the end result as well as screenshots for review.
 
-<a href=http://127.0.0.1:5500/index.html> 
-<a href=http://127.0.0.1:5501/01-HTML-Git-CSS/02-Challenge/Develop/index.html>
+<a href=http://127.0.0.1:5500/index.html>
+
+![image](https://user-images.githubusercontent.com/110742112/192440972-327068a9-f75b-44bf-8402-25981a72a845.png)
+
+![image](https://user-images.githubusercontent.com/110742112/192441037-16411bd6-d5c9-4cd0-ad4c-0d99a3809464.png)
 
 <H2>Credits</H2>
 
